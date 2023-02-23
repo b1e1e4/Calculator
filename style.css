@@ -7,8 +7,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background: linear-gradient(to right, #141e30, #243b55); */
-    background-color: whitesmoke;
+    background: linear-gradient(to right, #141e30, #243b55); 
+    /* background-color: whitesmoke; */
 }
 
 .calculator {
